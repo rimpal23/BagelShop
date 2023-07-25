@@ -23,7 +23,7 @@ public class Project extends Application {
         
         stage.setScene(scene);
         stage.show();
-        stage.setTitle("Sheridan Bagel House");
+        stage.setTitle("Bagel House");
     }
 
     /**
