@@ -14,7 +14,7 @@
    <children>
       <HBox accessibleText="Receipt" layoutY="-1.0" prefHeight="25.0" prefWidth="745.0" style="-fx-background-color: red;">
          <children>
-            <Label text="Sheridan Bagel Shop" />
+            <Label text="Bagel Shop" />
          </children>
       </HBox>
       <HBox layoutX="1.0" layoutY="418.0" prefHeight="33.0" prefWidth="699.0" style="-fx-background-color: red;">
