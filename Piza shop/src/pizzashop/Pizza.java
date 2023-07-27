@@ -13,8 +13,6 @@ public class Pizza
     public void bake(int temp)
     {
         bakeTemp = temp;
-        //do some baking here, code not implemented yet
-        //not necessary for the review
     }
     /**
      *  A method to add toppings to the ingredients
