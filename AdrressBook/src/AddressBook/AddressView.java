@@ -44,7 +44,7 @@ public class AddressView {
             }
             }while(exitFlag != true);
             
-            //write code to print the addressbook to the User
+            //print the addressbook to the User
             System.out.println(controller.print());
 	}
         
