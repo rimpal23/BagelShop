@@ -15,8 +15,6 @@ public class CheesePizza extends Pizza
    /** public void bake(int temp)
     {
         super.getTemp();
-        //do some baking here, code not implemented yet
-        //not necessary for the review
-        
+        //do some baking here
     }*/
 }
